@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.omico.lux.compose.material3.pullrefresh" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->C:\Users\harsh\Downloads\Weather-Clean-Architecture-main\Weather-Clean-Architecture-main\androidx-compose-material3-pullrefresh-2023.04.01\library\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5303141675695050078.xml
+6
+7</manifest>

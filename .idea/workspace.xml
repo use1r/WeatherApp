@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="619f9087-9a97-4766-8706-9e4613052a65" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AccompanistLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AccompanistNavigationLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeUiLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeUiToolingLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxDataStoreLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxDataStorePreferencesLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxHiltLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxHiltNavigationLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$DetektLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$HiltAndroidLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$HiltLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinxCoroutinesLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinxLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinxSerializationLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$OkhttpLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$PlayLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$PlayServicesLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$ProtobufKotlinLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$ProtobufLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$RetrofitKotlinLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$RetrofitLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$RoomLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/classes/org/gradle/accessors/dm/LibrariesForLibs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/fce0c439b2e2cc27707e3036885b35630a1d63c5/sources/org/gradle/accessors/dm/LibrariesForLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/.gradle/workspace-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/ArrowValues.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/LiveLiterals$PullRefreshKt.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/LiveLiterals$PullRefreshStateKt.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$3.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$targetAlpha$2$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$showElevation$2$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$2$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshKt$pullRefresh$$inlined$debugInspectorInfo$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshKt$pullRefresh$2$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshKt$pullRefresh$2$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshNestedScrollConnection$onPreFling$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshState$animateIndicatorTo$1$1$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshState$animateIndicatorTo$1$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshStateKt$rememberPullRefreshState$3.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/debug/debug_dex/androidx/compose/material3/pullrefresh/PullRefreshStateKt.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/21a7fd6577ea68abd7ca960af464b25c/transformed/desugar_graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/63ae9860b125b80c8726d7a4dc4fd47e/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/9bd91d4c6c1c2837ead03b92dec63f58/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/d42a1cf7bc37e665659dfe4d416a666f/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/d42a1cf7bc37e665659dfe4d416a666f/transformed/classes/classes_dex/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/e29f70de126366b7885750f1381b377c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/f013e1d546495f30c993654078dd792b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/.transforms/f9fc76b28ec195621bbe151a8c1efcaf/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/compile_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/full_jar/debug/full.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/META-INF/library_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/LiveLiterals$PullRefreshStateKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$targetAlpha$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$showElevation$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$$inlined$debugInspectorInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshKt$pullRefresh$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshKt$pullRefresh$2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshNestedScrollConnection$onPreFling$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshNestedScrollConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshState$animateIndicatorTo$1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshState$animateIndicatorTo$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_dir/debug/androidx/compose/material3/pullrefresh/PullRefreshStateKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/META-INF/library_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/ArrowValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/LiveLiterals$PullRefreshIndicatorTransformKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/LiveLiterals$PullRefreshStateKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshDefaults.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$CircularArrowIndicator$targetAlpha$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt$PullRefreshIndicator$showElevation$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$$inlined$debugInspectorInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransformKt$pullRefreshIndicatorTransform$2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshKt$pullRefresh$2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshState$animateIndicatorTo$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshState$animateIndicatorTo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/build/tmp/kotlin-classes/debug/androidx/compose/material3/pullrefresh/PullRefreshStateKt$rememberPullRefreshState$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/src/main/kotlin/androidx/compose/material3/pullrefresh/PullRefresh.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/library/src/main/kotlin/androidx/compose/material3/pullrefresh/PullRefreshIndicatorTransform.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidx_compose/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/weatherapp/data/LocationLocalDataSourceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/WeatherApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/constants/DelayTime.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/data/NetworkConnectivityObserver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/di/AppModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/domain/AppPreferences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/domain/ConnectivityObserver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/data/mapper/RecommendationsMapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/data/remote/RecommendationApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/data/remote/dto/AirQuality.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/domain/model/Recommendations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/domain/model/UvIndexLevel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/domain/model/UvRecommendation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/presentation/RecommendationScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/presentation/RecommendationViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/recommendation/presentation/component/UvNotificationItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/di/WeatherDataModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/local/AppDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/local/LocationDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/mapper/CityUiModelMapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/mapper/CoordinateMapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/mapper/WeatherMapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/remote/WeatherApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/remote/dto/AllWeatherDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/remote/dto/ForwardGeocoding.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/remote/dto/ReverseGeocoding.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/data/repository/DefaultWeatherRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/domain/model/Coordinate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/domain/model/unit/PressureUnit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/domain/model/weather/CurrentWeather.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/domain/model/weather/DailyWeather.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/domain/repository/LocationRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/domain/usecase/weather/GetAllWeather.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/component/CityAddressWithFlag.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/info/component/HourlyWeatherItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/info/component/InfoTopBar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/info/component/WeatherDataDisplay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/search/WeatherSearchScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/search/WeatherSearchState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/search/component/CurrentLocationField.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/search/component/SavedCityItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/features/weather/presentation/search/component/SearchBar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/presentation/ViewModeWithMessageAndLoading.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/presentation/WeatherNavGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/presentation/WeatherNavigation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/presentation/component/BasicTopBar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/presentation/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/util/CoroutinesUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/util/GeneralExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/util/LocationException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/util/UiText.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weatherapp/util/UserMessage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/proto/location_prefs.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cloudy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_drop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_location.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_pressure.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_rainshower.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_rainy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_snowy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_wind.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/android/util/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/fake/FakeConnectivityObserver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/fake/FakePreferences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/recommendation/fake/FakeRecommendationRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/recommendation/presentation/RecommendationViewModelTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/util/CheckResultFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/util/CoroutineRule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/weather/TestModels.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/weather/fake/FakeLocationRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/weatherapp/weather/setting/WeatherSettingViewModelTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="63a2424a-6004-476f-a9f8-4c5eba31c2ac" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R1pzsDZsAeFzOWtgJwhEnnY8aO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PROJECT_COMPLICATED_NOTIFICATION_LAST_HIDDEN_VERSION": "2022.2",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/harsh/Downloads/WeatherApp",
+    "project.structure.last.edited": "Build Variants",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="WeatherApp.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="619f9087-9a97-4766-8706-9e4613052a65" name="Changes" comment="" />
+      <created>1686427711736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686427711736</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1686483684162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686483684162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+</project>
